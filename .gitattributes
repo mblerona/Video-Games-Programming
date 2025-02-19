@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 BonusHomework/MainScene/floor.tscn filter=lfs diff=lfs merge=lfs -text
+BonusHomework/ScreenRecording/EscapetheFall_Recording.mp4 filter=lfs diff=lfs merge=lfs -text
